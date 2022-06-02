@@ -1,6 +1,6 @@
 {
   "name": "@saiarlen/pdf-signer-latest",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "A JavaScript PDF signer with certificate for NodeJS",
   "main": "dist/sign.js",
   "dependencies": {
