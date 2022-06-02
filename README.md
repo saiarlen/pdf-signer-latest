@@ -22,11 +22,11 @@ npm install pdf-signer-latest
 
 single signing example:
 ```javascript
-import { sign } from 'pdf-signer-brazil'
+const sign =  require('@saiarlen/pdf-signer-latest');
 const fs = require('fs')
 const dateFormat = require("dateformat")
 
-const p12Buffer = fs.readFileSync(`./assets/pdf-signer.p12`) // CPF/CNPJ A1 ICP-Brasil: Use original .pfx file 
+const p12Buffer = fs.readFileSync(`./assets/pdf-signer.p12`) //  .pfx file 
 const pdfBuffer = fs.readFileSync(`./assets/example.pdf`)
 
 const signature = 'Your Name'

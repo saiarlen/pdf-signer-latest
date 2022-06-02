@@ -1,6 +1,6 @@
 {
   "name": "@saiarlen/pdf-signer-latest",
-  "version": "3.0.3",
+  "version": "3.0.5",
   "description": "A JavaScript PDF signer with certificate for NodeJS",
   "main": "dist/sign.js",
   "dependencies": {
@@ -40,8 +40,8 @@
     "cpf",
     "a1",
     "icp",
-    "icp-brasil",
-    "brasil"
+    "DSC",
+    "pfx"
   ],
   "bugs": {
     "url": "https://github.com/willmdrs/pdf-signer-brazil.git/issues"
