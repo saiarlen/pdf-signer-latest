@@ -1,7 +1,7 @@
 {
   "name": "@saiarlen/pdf-signer-latest",
   "version": "3.0.2",
-  "description": "A JavaScript PDF signer with certificate A1 ICP-Brasil for NodeJS.",
+  "description": "A JavaScript PDF signer with certificate for NodeJS",
   "main": "dist/sign.js",
   "dependencies": {
     "node-forge": "^1.3.1",
